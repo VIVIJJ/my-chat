@@ -1,5 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 Pillow
 g4f
 python-multipart
+websockets
