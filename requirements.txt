@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+Pillow
+g4f
